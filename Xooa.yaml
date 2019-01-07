@@ -4,5 +4,6 @@ Apps:
     Description: Solidity Smart Contract using Truffle framework
     path: ./
     mainSolFile: Storage
-    language: truffle
+    language: solidity
+    truffle: true
     README: https://github.com/rajatxooa/truffleSimpleStorage/blob/master/README.md
